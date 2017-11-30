@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: windows.wds@aliyun.com
 description: "关于前端与设计"
 keyword: "王东省,王东省的博客, WDS Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://wrongcode886.github.io"              # your host, for absolute URL
+url: "https://wangdongsheng.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
